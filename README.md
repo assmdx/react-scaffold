@@ -3,4 +3,6 @@
 
 - React
 - redux
+- react-redux
 - typestyle
+- react-router4
