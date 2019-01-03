@@ -134,8 +134,8 @@
       ]
     ]
   },
-  "proxy": "http://10.10.11.155:9001/",
   "devDependencies": {
-    "@babel/plugin-proposal-decorators": "^7.1.2"
+    "@babel/plugin-proposal-decorators": "^7.1.2",
+    "http-proxy-middleware": "^0.19.1"
   }
 }
